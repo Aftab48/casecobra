@@ -42,6 +42,6 @@ export function constructMetadata({
       creator: "@aftab",
     },
     icons,
-    metadataBase: new URL("https://casecobra.vercel.app/"),
+    metadataBase: new URL("https://casecobra-a.vercel.app/"),
   };
 }
