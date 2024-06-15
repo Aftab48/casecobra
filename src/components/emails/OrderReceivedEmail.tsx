@@ -91,7 +91,7 @@ const OrderReceivedEmail = ({
             </Row>
             <Row>
               <Text style={footer.text}>
-                © CaseCobra2024, Inc. All Rights Reserved.
+                © CaseCobra, Inc. All Rights Reserved.
               </Text>
             </Row>
           </Section>
